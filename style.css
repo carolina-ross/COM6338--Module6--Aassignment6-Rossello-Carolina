@@ -48,7 +48,7 @@ header ul li:last-child > a,
   align-items: center;
   justify-content: center;
   height: 600px;
-  background-image: url('./img/banner-bg.png');
+  background-image: url('banner-bg.png');
   background-color: #3b3838e1;
   background-position: center;
   background-size: cover;
@@ -89,6 +89,7 @@ footer {
   border-top: solid var(--yellow) 12px;
   padding: 36px 0;
 }
+
 footer img {
   display: block;
   margin: auto;
